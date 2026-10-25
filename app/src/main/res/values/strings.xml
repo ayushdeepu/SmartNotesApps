@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Smart Notes Java</string>
+    <string name="hint_search">Search your notes...</string>
+    <string name="hint_title">Note title</string>
+    <string name="hint_body">Write your note here...</string>
+    <string name="add_note">New note</string>
+</resources>
