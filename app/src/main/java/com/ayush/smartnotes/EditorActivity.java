@@ -20,7 +20,8 @@ public class EditorActivity extends Activity {
     private static final String STATE_ID = "saved_note_id";
     private final String[] categories = {"Personal", "Study", "Work", "Ideas"};
     private TextView[] categoryViews;
-    private TextView heading, wordCount, pinToggle, deleteButton;
+    private TextView heading, wordCount, pinToggle;
+    private android.widget.ImageButton deleteButton;
     private EditText titleInput, bodyInput;
     private NotesDbHelper database;
     private long noteId = -1L;
