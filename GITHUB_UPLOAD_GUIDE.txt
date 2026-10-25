@@ -1,0 +1,15 @@
+SMART NOTES APP — JAVA + XML
+
+This is a COMPLETE Android Studio source project.
+
+1. EXTRACT the ZIP archive.
+2. Go into its extracted folder.
+3. Upload ALL contents, including .github/, .gitignore, app/, gradle/, tools/, gradlew, gradlew.bat, build.gradle, settings.gradle, README.md.
+4. Do not upload just the ZIP or APK as source code.
+5. Open repository → Actions to see whether APK build passed.
+6. On a green build, open that run → Summary → Artifacts → SmartNotesApp-Java-debug-APK to download the debug APK.
+
+For Android Studio: File > Open > select extracted folder containing settings.gradle.
+
+IMPORTANT: This project uses Java + XML and SQLite, NOT Kotlin/Compose.
+Application ID: com.ayush.smartnotes.javaxml (can coexist with your old app).
